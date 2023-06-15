@@ -13,7 +13,7 @@
   - 💻 Estudo Engenharia de Software/Programação.
   - 🎵 Gosto bastante de música
   - 🏀 Jogo basquete nas horas vagas
-  - <a href="https://vercel.com/ryanjesus/ryanoliveira" target="_blank">Meu Portifólio</a>
+  - <a href="https://ryanoliveira.vercel.app/" target="_blank">Meu Portifólio</a>
   
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
