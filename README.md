@@ -14,6 +14,8 @@
   - 🎵 Gosto bastante de música
   - 🏀 Jogo basquete nas horas vagas
   - <a href="https://ryanoliveira.vercel.app/" target="_blank">Meu Portifólio</a>
+  - 📫 Contato ryanoliveira.vm@gmail.com
+  - 📄 <a href="https://www.linkedin.com/in/ryan-jesus/">Meu LinkedIn<a/> 
   
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
