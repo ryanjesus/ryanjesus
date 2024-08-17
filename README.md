@@ -1,4 +1,4 @@
-# Olá! sou o Ryan Oliveira, estudande de programação e tecnologia!
+# Olá! sou o Ryan Oliveira
 
   
 
