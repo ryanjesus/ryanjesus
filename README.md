@@ -5,8 +5,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  - 👨‍💻 Atuo como Analista de infraestrutura de TI
-  - 💻 Estudo DBA
+  - 👨‍💻 Atuo como engenheiro de dados
   - 🎵 Gosto bastante de música
   - 🏀 Jogo basquete nas horas vagas
   - <a href="https://ryanoliveira.vercel.app/" target="_blank">Meu Portifólio</a>
